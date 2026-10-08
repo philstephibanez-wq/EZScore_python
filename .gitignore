@@ -16,3 +16,7 @@ data/analysis/stem_lab/
 # Generated analysis artifacts: keep local, never push
 data/analysis/stems/
 data/analysis/stem_lab/
+
+# Local runtime data
+data/EZScore.sqlite3
+data/logs/ezscore_perf.log
